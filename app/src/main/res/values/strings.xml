@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieMania</string>
+    <string name="action_settings">Settings</string>
+    <string name="s">Search</string>
+    <string name="title_activity_recent_movies">RecentMovies</string>
+    <string name="uy">Large Text</string>
+    <string name="juhvh">Large Text</string>
+    <string name="jhv">Large Text</string>
+    <string name="hgjv">Large Text</string>
+</resources>
